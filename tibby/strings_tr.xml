@@ -45,7 +45,7 @@
     
     <string-array name="springs">
         <item>Jump boots</item>
-        <item>Bu ozel botlar seni daha yuksege ziplatir. Yalnizca bi gorev icin etkili.</item>
+        <item>Bu özel botlar seni daha yükseğe zıplatabilir. Yalnızca bir görev için etkili.</item>
         <item>600</item>
         <item></item>
         <item></item>
@@ -56,7 +56,7 @@
      <!-- level 2 -->
     <string-array name="fast_skates">
         <item>Fast Skates</item>
-        <item>Kizaklarin icin bu eklenti en yuksek hizini artirir</item>
+        <item>Bu ekelenti kızakların için. Hızını maksimum seviyesinin üzerine çıkartır.</item>
         <item>1000</item>
         <item></item>
         <item>shop/fast_skates.png</item>
@@ -66,7 +66,7 @@
     
     <string-array name="fast_acc_skates">
         <item>Fast Acceleration</item>
-        <item>Kizaklarin icin bu gucle eklenti ile 20% daha cok ivme kazanirsin</item>
+        <item>Kızakların için olan bu güçlü eklenti ile yüzde 20 daha çok ivme kazanabilirsin</item>
          <item>800</item>
         <item></item>
         <item>shop/fast_acc_skates.png</item>
@@ -76,7 +76,7 @@
     
     <string-array name="jetpack">
         <item>Jetpack</item>
-        <item>Jet cantan icin 3 adet yakit deposu. Daha cok ivme kazanarak, daha once hic ziplamadigin kadar yuksege cikabileceksin</item>
+        <item>Jet çantan için 3 adet yakıt deposu. Daha çok ivme kazanarak, önceden hiç zıplamadığın kadar yukseğe çıkabilirsin</item>
         <item>1000</item>
         <item>jetpack.png</item>
         <item>shop/jetpack.png</item>
@@ -86,7 +86,7 @@
     
     <string-array name="snowballs">
         <item>Snow balls</item>
-        <item>Ozel dondurma iksirli 3 adet kar bombasi. Trepetlerin uzerine at ki bir muddet donakalsinlar</item>
+        <item>Özel iksirli 3 adet kar bombası. Trepetlerin üzerine at ki bir müddet donakalsınlar</item>
         <item>1200</item>
         <item>snowBall_icon.png</item> <!-- icon (IN GAME)-->
         <item>shop/snowBalls.png</item> <!-- image (SHOP BOX)-->
@@ -106,7 +106,7 @@
     
     <string-array name="glasses">
         <item>Thermo glasses</item>
-        <item>Bu termo sensorlu gozluklerle, trepetleri gorunmez haldeyken bile gorebilirsin</item>
+        <item>Bu termo sensörlü gözluklerle, trepetleri görünmez haldeyken bile görebilirsin</item>
         <item>1000</item>
         <item></item>
         <item>shop/glasses.png</item>
