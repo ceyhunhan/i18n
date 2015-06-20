@@ -4,7 +4,7 @@
     
     <!-- level 1 -->
     <string-array name="antispikes">
-        <item>Anti-Çubuk</item>
+        <item>Anti-Balon</item>
         <item>Bu iksir seni kırmızı balonlara karşı korur. Yalnızca bir görev için etkili.</item>
         <item>800</item>
         <item></item>
