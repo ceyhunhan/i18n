@@ -1,0 +1,497 @@
+<resources>
+    
+    <!--  Gadgets -->
+    
+    <!-- level 1 -->
+    <string-array name="antispikes">
+        <item>Anti-Spikes</item>
+        <item>This potion will make you immune to\n
+            red bubbles.\n
+            It lasts only for one mission.</item>
+        <item>800</item>
+        <item></item>
+        <item>shop/potion_spikes.png</item>
+        <item>shop/potion_spikes.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="glue">
+        <item>Instant glue</item>
+        <item>Put this special glue on the ground\n
+        	and wait for the treeppets to get stuck\n
+            on it. Be fast, they will get free after\n
+            a while!</item>
+         <item>1200</item>
+        <item></item>
+        <item></item>
+        <item>shop/glue.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="earplugs">
+        <item>Earplugs</item>
+        <item>With these special earplugs musical\n
+            trees will not have any effect on you.\n
+            They last only for one mission</item>
+        <item>700</item>
+        <item></item>
+        <item></item>
+        <item>shop/earplugs.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="stunning_balls">
+        <item>Stunning bombs</item>
+        <item>Three stunning bombs. Hit treeppets\n 
+            with them and they will get dizzy\n
+            for a while</item>
+        <item>2200</item>
+        <item>sopoBall_icon.png</item>
+        <item>shop/bombs.png</item>
+        <item>shop/bombs.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="springs">
+        <item>Jump boots</item>
+        <item>These special boots will\n
+        		make you jump much higher.\n
+        		They last only for one mission.</item>
+        <item>600</item>
+        <item></item>
+        <item></item>
+        <item>shop/boots.png</item>
+        <item>-1</item>
+    </string-array>
+    
+     <!-- level 2 -->
+    <string-array name="fast_skates">
+        <item>Fast Skates</item>
+        <item>This add on for you skates will\n
+            increase your maximum speed. </item>
+        <item>1000</item>
+        <item></item>
+        <item>shop/fast_skates.png</item>
+        <item>shop/fast_skates.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="fast_acc_skates">
+        <item>Fast Acceleration</item>
+        <item>You will get 20% more acceleration\n
+                   with this powerful add-on for\n
+                   your skates</item>
+         <item>800</item>
+        <item></item>
+        <item>shop/fast_acc_skates.png</item>
+        <item>shop/fast_acc_skates.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="jetpack">
+        <item>Jetpack</item>
+        <item>Three charges of fuel for your jetpack.\n
+            You will be able to accelerate and\n
+            jump as you never did before!
+            </item>
+        <item>1000</item>
+        <item>jetpack.png</item>
+        <item>shop/jetpack.png</item>
+        <item>shop/jetpack.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="snowballs">
+        <item>Snow balls</item>
+        <item>Three snowballs containing a\n
+            special freezing potion. Throw them\n 
+            at treeppets and they will get frozen\n 
+            for a while.</item>
+        <item>1200</item>
+        <item>snowBall_icon.png</item> <!-- icon (IN GAME)-->
+        <item>shop/snowBalls.png</item> <!-- image (SHOP BOX)-->
+        <item>shop/snowBalls.png</item> <!-- shopIcon (USABLE/THROWABLE)-->
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="soporific_balls">
+        <item>Soporific bombs</item>
+        <item>Three balls containing a soporific\n
+            powder. Throw them at treeppets and\n
+            they will fall asleep for a while.</item>
+        <item>1200</item>
+        <item>soporificBall_icon.png</item>
+        <item>shop/sopoBalls.png</item>
+        <item>shop/sopoBalls.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="glasses">
+        <item>Thermo glasses</item>
+        <item>These thermo sensor glasses will\n
+            allow you to see treeppets even\n
+            when they are invisible</item>
+        <item>1000</item>
+        <item></item>
+        <item>shop/glasses.png</item>
+        <item>shop/glasses.png</item>
+        <item>-1</item>
+        </string-array>
+        
+   <string-array name="book">
+        <item>Martial Arts Book</item>
+        <item>All the secrets you need to avoid\n
+            ninja treppets attacks! With this you\n
+            will be able avoid flying kicks!\n
+            (Swipe down when attacked) </item>
+        <item>1000</item>
+        <item></item>
+        <item>shop/book.png</item>
+        <item>shop/book.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <!-- Common -->
+    <string-array name="radar">
+        <item>Treeppets Radar</item>
+        <item>This Treeppets Radar will show\n
+            you treeppets position when they\n 
+            are out of sight (blinking dots at\n
+            the border of the screen)</item>
+        <item>500</item>
+		<item></item>
+        <item></item>
+        <item>shop/radar.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="engine1">
+        <item>Lightning 1000</item>
+        <item>This add-on for you hoover will\n
+            increase its effective range by\n
+            more than 10%
+            </item>
+        <item>4000</item>
+        <item></item>
+        <item></item>
+        <item>shop/addon1.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="engine2">
+        <item>Turbine 3000</item>
+        <item>With this add on for your hoover\n
+            the time needed to activate the \n
+            aspiration will decrease by 20%\n
+            (Requires Lightning 1000)
+        </item>
+        <item>12000</item>
+        <item ></item>
+        <item ></item>
+        <item>shop/addon2.png</item>
+        <item>engine1</item>
+    </string-array>
+    
+    <string-array name="engine3">
+        <item>Hurricane 5000</item>
+        <item>The ultimate add-on for you hoover!\n
+            It will increase its range, its speed and\n
+            will allow you to catch more than one\n
+            treeppet at the same time!\n
+        	(Requires Turbine 3000)
+        </item>
+        <item>16000</item>
+        <item></item>
+        <item></item>
+        <item>shop/addon3.png</item>
+        <item>engine2</item>
+    </string-array>
+
+    <!-- Stages Title -->
+    <string-array name="Level_title">
+        <item>The Woods</item>
+        <item>North Pole</item>
+        <item>Japan</item>
+    </string-array>
+
+    <!-- Intro -->
+    <string-array name="intro_1">
+        <item>Somewhere in the Solar System,\n
+           not so far from here...</item>
+    </string-array>
+    
+    <string-array name="intro_2">
+        <item>The Nursery Ship is finally\n
+           flying back home</item>
+        <item>Little treeppets are ready to\n
+           hatch from their eggs...</item>
+        <item>and they are being taken from the\n
+            nursery to Treep planet.</item>
+    </string-array>
+    
+    <string-array name="intro_3">
+        <item>BUT...</item>
+    </string-array>
+    
+    <string-array name="intro_4">
+        <item>Something went wrong with the engine!</item>
+        <item>The nursery ship needs to make \n
+            an emergency landing on Earth.</item>
+    </string-array>
+    
+    <string-array name="intro_5">
+        <item>For safety reasons the load has\n
+            been parachuted to the ground...</item>
+        <item>eggs included...</item>
+    </string-array>
+    
+    <string-array name="intro_6">
+        <item>Once on the ground boxes crack open\n 
+            and small treeppets start to emerge...</item>
+    </string-array>
+    
+    <string-array name="intro_7">
+        <item>The eggs are not the only thing\n
+              the ship was transporting though... </item>
+    </string-array>
+    
+    <string-array name="intro_8">
+        <item>A huge amount of Treeppa was\n
+            in the trunk </item>
+        <item>Treeppa is the unique source of energy\n 
+            of planet Treep...</item>
+        <item>without it the planet will die.</item>
+        <item>Unfortunately little treeppets love it\n 
+            and will eat it all if not stopped.</item>
+    </string-array>
+    
+    <string-array name="intro_9">
+	<item>YOU</item>
+	
+	<item>
+		were hired as a Treeppets Hunter\n
+		to catch all the little treeppets...
+	</item>
+	
+	<item>and save the precious Treeppa.</item>
+	</string-array>
+	
+	<string-array name="intro_10">
+	<item>
+		Find them in these three locations and\n 
+		bring them all back to the ship...
+	</item>
+
+	<item>
+		so that they can safely return their\n
+		planet once the engine is fixed.
+	</item>
+	</string-array>
+
+	<string-array name="intro_11">
+		<item>
+			Of course baby treeppets were not\n
+			left alone during the trip...
+		</item>
+	</string-array>
+
+	<string-array name="intro_12">
+		<item>Robot Nurses were watching over them.</item>
+
+		<item>
+			They are out of control now and\n
+			will not hesitate to attack you.
+		</item>
+
+		<item>Especially if they see you bothering\n
+                          the babies.</item>
+	</string-array>
+
+	<string-array name="intro_13">
+		<item>Also other things were released\n
+		    from the ship...</item>
+		<item>
+			be constantly ready for strange and\n
+			dangerous encounters...
+		</item>
+		<item>GOOD LUCK!!!</item>
+	</string-array>
+
+    <!-- Credits -->
+    
+    <string-array name="credits">
+        <item>A game by</item>
+        <item>Antonio Argento</item>
+       
+        <item>\n \n</item>
+        
+        <item>Graphics:</item>
+        <item>Dennis Saputra</item>
+        
+        <item>\n \n</item>
+        
+        <item>Music:</item>
+        <item>DL Sounds</item>
+        
+        <item>  </item>
+        
+        <item>Quality Assurance:</item>
+        <item>Yulia Alshibaya</item>
+        <item>Denise Argento</item>
+        <item>Ylenia Argento</item>
+        <item>Miguel Barrera</item>
+        <item>Romain Diot</item>
+		<item>Leandro Gulizia</item>
+        <item>Jelena Radivojevic</item>
+        <item>Alberto Spataro</item>
+        <item>Francesco Spataro</item>
+        <item>Samuele Tamberi</item>
+        <item>Nicola Tamberi</item>
+        <item>Paul Venturo</item>
+    </string-array>
+
+       <!-- Final screen  -->
+    <string-array name="final_sequence_1">
+        <item>You made it!!!</item>
+    </string-array>
+    
+    <string-array name="final_sequence_2">
+        <item>The ship is finally fixed!</item>
+        <item>All little treeppets are now\n
+            on board and ready to go.</item>
+        <item>After a long trip they\n
+               will be back home</item>
+		<item>You did a great job!</item>
+		<item>All inhabitant of planet Treep\n
+		    couldn\'t be more grateful</item>
+    </string-array>
+    
+    <string-array name="final_sequence_3">
+        <item>Thank You!!!</item>
+    </string-array>
+      
+
+
+
+
+
+      <!-- Awards -->
+      <string-array name="award_1">
+        <item>Apprentice Treeppet Hunter</item>
+		<item>Complete the first mission</item>
+		<item>buttons/icon1.png</item>
+      </string-array>
+      
+      <string-array name="award_2">
+        <item>Junior Treeppet Hunter</item>
+		<item>Complete the first 6 missions</item>
+		<item>buttons/icon2.png</item>
+      </string-array>
+      
+    <string-array name="award_3">
+         <item>Advanced Treeppet Hunter</item>
+		<item>Score 50.000 points and\ncatch at least 40 treeppets</item>
+		<item>buttons/icon3.png</item>
+      </string-array>
+	
+	<string-array name="award_4">
+        <item>Expert Treeppet Hunter</item>
+		<item>Score 100.000 points and\ncatch at least 100 treeppets</item>
+		<item>buttons/icon4.png</item>
+      </string-array>
+      
+      <string-array name="award_5">
+        <item>Master Treeppet Hunter</item>
+		<item>Score 200.000 points and\n
+		      catch at least 200 treeppets</item>
+		<item>buttons/icon5.png</item>
+      </string-array>
+      
+      <string-array name="award_6">
+        <item>Survival Instinct</item>
+		<item>Complete 20 missions without\n
+		       losing any lives</item>
+		<item>buttons/award6.png</item>
+      </string-array>
+      
+      <string-array name="award_7">
+        <item>Throwing Accuracy Badge</item>
+		<item>Hit 10 treeppets in a row\n
+		    without missing a shot</item>
+		<item>buttons/award7.png</item>
+      </string-array>
+      
+      <string-array name="award_8">
+        <item>Agility Badge</item>
+		<item>Avoid attacks of 20\n
+		    nurse robots</item>
+		<item>buttons/award8.png</item>
+      </string-array>
+      
+      <string-array name="award_9">
+        <item>Fast Catch Badge</item>
+		<item>Complete 10 missions with more\n
+		      than 30 seconds left on the timer</item>
+		<item>buttons/award9.png</item>
+      </string-array>  
+      
+	<string-array name="award_10">
+        <item>Fighting Master</item>
+		<item>Avoid the attacks of\n
+		      20 ninja treppets</item>
+		<item>buttons/award10.png</item>
+      </string-array> 
+      
+    <string name="loading">Loading...</string>
+    <string name="total">Coins</string>
+    <string name="total_score">Total Score</string>
+    <string name="settings">Settings</string>
+    <string name="awards">Awards</string>
+    <string name="resetConfirm">\n \nDo you really want\n
+        				to delete everything \n
+        				and start from the\n
+        				beginning?</string>
+    
+    <string name="music">Music</string>
+    <string name="sounds">Sounds</string>
+    <string name="credits">Credits</string>
+    <string name="intro">Intro</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="welldone">Well Done!</string>
+    <string name="stage">Mission</string>
+    <string name="tryagain">Try</string>
+    <string name="again">again!</string>
+    <string name="completed">Completed!</string>
+    <string name="congratulations">Congratulations!!!</string>
+    <string name="ooops">OOOOPS!!!</string>
+    <string name="timeup">Time\'s up!</string>
+    <string name="youcatchall">You catched\nthem all!!!</string>
+    <string name="back_again_exit">Press back button again to exit</string>
+ 	<string name="new_achievement">New achievement!</string>
+ 
+    <string name="left_to_catch">treeppets left to catch</string>
+    <string name="stages_left">missions left</string>
+    <string name="hits_left">hits left</string>
+    <string name="attacks_left">attacks left</string>
+    <string name="ninja_attacks_left">ninja attacks left</string>
+    <string name="score">Score:</string>
+    
+	<string name="help_controls">Swipe gently to\nmove and tap to stop\n \nSwipe longer to\naccelerate</string>
+	<string name="help_treeppets"> \n \nMove close enough\n to a treeppet to\n suck it in</string>
+	<string name="help_treeppa">Protect the\nprecious treeppa!\n \nEvery ball eaten will\ncost you 50 coins</string>   
+	<string name="help_red_bubbles">\n \nDon\'t walk on\nred bubbles when\ntheir spikes are out!</string>
+	<string name="help_trampoline">\n \nSwipe down to\nuse a trampoline</string>
+	<string name="help_nurse">Nurse robots\nwill attack you\nif they see you\ncatching a treeppet.</string>
+	<string name="help_nurse_bad">\n \nSome nurse robots\nwill attack you\nimmediately if\nthey see you around!</string>
+	<string name="help_musical_tree">\n \nMusical trees\ncan hypnotize you\nwith their melody!</string>
+	<string name="help_usable">\n \nTap on the\ncorrespondent\nicon to use the\ngadget</string>
+	
+	<string name="help_cloud">\n \nStay away from dark\nclouds! They can\nsuddenly hit\nyou with lightnings!</string>
+
+	<string name="help_tornado">\n \nTornadoes can\ncatch you in when\nthey expand!</string>
+
+	<string name="help_ninja_treeppet">\n \nNinja treeppets may\nattack you with \nflying kicks!</string>
+	
+</resources>

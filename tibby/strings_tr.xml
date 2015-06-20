@@ -1,0 +1,420 @@
+<resources>
+    
+    <!--  Gadgets -->
+    
+    <!-- level 1 -->
+    <string-array name="antispikes">
+        <item>Anti-Spikes</item>
+        <item>Bu iksir seni kırmızı balonlara karşı korur. Yalnızca bir görev için etkili.</item>
+        <item>800</item>
+        <item></item>
+        <item>shop/potion_spikes.png</item>
+        <item>shop/potion_spikes.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="glue">
+        <item>Instant glue</item>
+        <item>Bu özel yapıştırıcıyı yere dök ve trepetlerin üzerine yapışmasını bekle. Hızlı olmalısın. Bir müddet sonra trepetler serbest kalabilirler.</item>
+         <item>1200</item>
+        <item></item>
+        <item></item>
+        <item>shop/glue.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="earplugs">
+        <item>Earplugs</item>
+        <item>Bu özel kulaklıkla, müzikal ağaçlarin sana hicbir etkisi olmaz. Ama yalnizca bi gorev icin etkili</item>
+        <item>700</item>
+        <item></item>
+        <item></item>
+        <item>shop/earplugs.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="stunning_balls">
+        <item>Stunning bombs</item>
+        <item>3 tane sersemleten bomba. Trpetleri bunlarla vurursan, bir muddet trepetlerin basini dondurursun</item>
+        <item>2200</item>
+        <item>sopoBall_icon.png</item>
+        <item>shop/bombs.png</item>
+        <item>shop/bombs.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="springs">
+        <item>Jump boots</item>
+        <item>Bu ozel botlar seni daha yuksege ziplatir. Yalnizca bi gorev icin etkili.</item>
+        <item>600</item>
+        <item></item>
+        <item></item>
+        <item>shop/boots.png</item>
+        <item>-1</item>
+    </string-array>
+    
+     <!-- level 2 -->
+    <string-array name="fast_skates">
+        <item>Fast Skates</item>
+        <item>Kizaklarin icin bu eklenti en yuksek hizini artirir</item>
+        <item>1000</item>
+        <item></item>
+        <item>shop/fast_skates.png</item>
+        <item>shop/fast_skates.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="fast_acc_skates">
+        <item>Fast Acceleration</item>
+        <item>Kizaklarin icin bu gucle eklenti ile 20% daha cok ivme kazanirsin</item>
+         <item>800</item>
+        <item></item>
+        <item>shop/fast_acc_skates.png</item>
+        <item>shop/fast_acc_skates.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="jetpack">
+        <item>Jetpack</item>
+        <item>Jet cantan icin 3 adet yakit deposu. Daha cok ivme kazanarak, daha once hic ziplamadigin kadar yuksege cikabileceksin</item>
+        <item>1000</item>
+        <item>jetpack.png</item>
+        <item>shop/jetpack.png</item>
+        <item>shop/jetpack.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="snowballs">
+        <item>Snow balls</item>
+        <item>Ozel dondurma iksirli 3 adet kar bombasi. Trepetlerin uzerine at ki bir muddet donakalsinlar</item>
+        <item>1200</item>
+        <item>snowBall_icon.png</item> <!-- icon (IN GAME)-->
+        <item>shop/snowBalls.png</item> <!-- image (SHOP BOX)-->
+        <item>shop/snowBalls.png</item> <!-- shopIcon (USABLE/THROWABLE)-->
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="soporific_balls">
+        <item>Soporific bombs</item>
+        <item>3 adet uyku tozlu bomba. Trepetlerin uzerine at ki bi muddet uyuyakalsinlar</item>
+        <item>1200</item>
+        <item>soporificBall_icon.png</item>
+        <item>shop/sopoBalls.png</item>
+        <item>shop/sopoBalls.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="glasses">
+        <item>Thermo glasses</item>
+        <item>Bu termo sensorlu gozluklerle, trepetleri gorunmez haldeyken bile gorebilirsin</item>
+        <item>1000</item>
+        <item></item>
+        <item>shop/glasses.png</item>
+        <item>shop/glasses.png</item>
+        <item>-1</item>
+        </string-array>
+        
+   <string-array name="book">
+        <item>Martial Arts Book</item>
+        <item>Ninja trepet saldirisindan kacmak icin gereken butun sirlar burda. Ucan tekmelere karsi korunabilirsin! (Saldiri esnasinda asaga dogru suruklen)</item>
+        <item>1000</item>
+        <item></item>
+        <item>shop/book.png</item>
+        <item>shop/book.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <!-- Common -->
+    <string-array name="radar">
+        <item>Treeppets Radar</item>
+        <item>Bu Trepet Radari sana gorus alani disindaki trepetleri gosterecek. (Ekranin kenarindaki yanip sonen noktalara dikkat et)</item>
+        <item>500</item>
+		<item></item>
+        <item></item>
+        <item>shop/radar.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="engine1">
+        <item>Lightning 1000</item>
+        <item>Bu eklenti supurgenin etkisini yuzde 10'dan fazla artiracak</item>
+        <item>4000</item>
+        <item></item>
+        <item></item>
+        <item>shop/addon1.png</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="engine2">
+        <item>Turbine 3000</item>
+        <item>Bu eklenti ile supurgenin emmesi icin gereken zaman yuzde 20 azalacak (Oncesinde Lightning 1000 gerekli)</item>
+        <item>12000</item>
+        <item ></item>
+        <item ></item>
+        <item>shop/addon2.png</item>
+        <item>engine1</item>
+    </string-array>
+    
+    <string-array name="engine3">
+        <item>Hurricane 5000</item>
+        <item>Supurgen icin esas eklenti! Emme alanini ve hizini artirir. Birden fazla trepet yakalamana izin verir. (Oncesinde Turbine 3000 gerekli)</item>
+        <item>16000</item>
+        <item></item>
+        <item></item>
+        <item>shop/addon3.png</item>
+        <item>engine2</item>
+    </string-array>
+
+    <!-- Stages Title -->
+    <string-array name="Level_title">
+        <item>Odunluk</item>
+        <item>Kuzey Kutbu</item>
+        <item>Japonya</item>
+    </string-array>
+
+    <!-- Intro -->
+    <string-array name="intro_1">
+        <item>Güneş sisteminde bi yerde, burdan cok uzakta degil...</item>
+    </string-array>
+    
+    <string-array name="intro_2">
+        <item>Nursery gemisi sonunda eve donmektedir</item>
+        <item>Kucuk trepetler yumurtadan cikmaya hazirlar...</item>
+        <item>ve Treep gezegenine dogru yol almaktadirlar.</item>
+    </string-array>
+    
+    <string-array name="intro_3">
+        <item>AMA...</item>
+    </string-array>
+    
+    <string-array name="intro_4">
+        <item>Birseyler ters gider!</item>
+        <item>Nursery gemisi, dunyaya acil inis yapmak zorunda kalir!</item>
+    </string-array>
+    
+    <string-array name="intro_5">
+        <item>Guvenlik sebebiyle butun yuk yeryuzune parasutle atilir...</item>
+        <item>yumurtalarla beraber...</item>
+    </string-array>
+    
+    <string-array name="intro_6">
+        <item>Yeryuzune varan kutular yumurtalarin kirilmasina sebep olur ve kucuk trepetler kacismaya baslar...</item>
+    </string-array>
+    
+    <string-array name="intro_7">
+        <item>Gemi yalnizca yumurtalari tasimiyordu... </item>
+    </string-array>
+    
+    <string-array name="intro_8">
+        <item>Cokca miktarda Treeppa depolanmisti</item>
+        <item>Treeppa Treep gezegeninin tek enerji kaynagidir...</item>
+        <item>o olmadan gezegen hayatta kalamaz.</item>
+        <item>Maalesef kucuk treepetler onu cok sevmekteler ve durdurulmazlarsa hepsini yerler!!!</item>
+    </string-array>
+    
+    <string-array name="intro_9">
+	<item>SEN</item>
+	
+	<item>
+	    artik bir Trepet Avcisisin! Kucuk trepetleri yakalamalisin!
+	</item>
+	
+	<item>Ve kiymetli Trepa'yi kurtarmalisin!</item>
+	</string-array>
+	
+	<string-array name="intro_10">
+	<item>
+	    Onlari su 3 yerde bul ve gemiye geri getir...
+	</item>
+
+	<item>
+	    Motor tamir olunca gezegenlerine sagasalim donebilsinler.
+	</item>
+	</string-array>
+
+	<string-array name="intro_11">
+		<item>
+		Tabii ki bebek trepetler seyahat sirasinda yalniz degildirler...
+		</item>
+	</string-array>
+
+	<string-array name="intro_12">
+		<item>Onlari Robot Hemsireler gozetlemektedir.</item>
+
+		<item>
+		Robotlar kontrol disindadir ve sana saldirmaktan kacinmazlar.
+		</item>
+
+		<item>Ozellikle bebekleri rahatsiz ettigini gorurlerse.</item>
+	</string-array>
+
+	<string-array name="intro_13">
+		<item>Ayrica gemiden oteki seyler de saliverilecek...</item>
+		<item>
+		    Esrarengiz ve de tehlikeli tesaduflere karsi hazir ol...
+		</item>
+		<item>BAŞARILAR!!!</item>
+	</string-array>
+
+    <!-- Credits -->
+    
+    <string-array name="credits">
+        <item>Oyun Ustadi</item>
+        <item>Antonio Argento</item>
+       
+        <item>\n \n</item>
+        
+        <item>Grafikler:</item>
+        <item>Dennis Saputra</item>
+        
+        <item>\n \n</item>
+        
+        <item>Muzik:</item>
+        <item>DL Sounds</item>
+        
+        <item>  </item>
+        
+        <item>Kalite Güvence:</item>
+        <item>Yulia Alshibaya</item>
+        <item>Denise Argento</item>
+        <item>Ylenia Argento</item>
+        <item>Miguel Barrera</item>
+        <item>Romain Diot</item>
+		<item>Leandro Gulizia</item>
+        <item>Jelena Radivojevic</item>
+        <item>Alberto Spataro</item>
+        <item>Francesco Spataro</item>
+        <item>Samuele Tamberi</item>
+        <item>Nicola Tamberi</item>
+        <item>Paul Venturo</item>
+    </string-array>
+
+       <!-- Final screen  -->
+    <string-array name="final_sequence_1">
+        <item>Başardın!!!</item>
+    </string-array>
+    
+    <string-array name="final_sequence_2">
+        <item>Gemi sonunda tamir oldu!</item>
+        <item>Tum trepetler gemideler ve yol almaya hazirlar.</item>
+        <item>Uzun bir yolculuktan sonra, evlerine geri donecekler.</item>
+		<item>Cok iyi bir isi halletin!</item>
+		<item>Trep gezegeni halki sana minnettar!</item>
+    </string-array>
+    
+    <string-array name="final_sequence_3">
+        <item>Teşekkürler!!!</item>
+    </string-array>
+      
+
+
+
+
+
+      <!-- Awards -->
+      <string-array name="award_1">
+        <item>Acemi Trepet Avicisi</item>
+		<item>Ilk gorevi tamamla</item>
+		<item>buttons/icon1.png</item>
+      </string-array>
+      
+      <string-array name="award_2">
+        <item>Junyor Trepet Avicisi</item>
+		<item>Ilk 6 gorevi tamamla</item>
+		<item>buttons/icon2.png</item>
+      </string-array>
+      
+    <string-array name="award_3">
+         <item>Gelişmiş Trepet Avicisi</item>
+		<item>50.000 puan al ve\n40 trepet yakala</item>
+		<item>buttons/icon3.png</item>
+      </string-array>
+	
+	<string-array name="award_4">
+        <item>Uzman Trepet Avicisi</item>
+		<item>100.000 puan al ve\n en azindan 100 tane trepet yakala</item>
+		<item>buttons/icon4.png</item>
+      </string-array>
+	  
+      <string-array name="award_5">
+        <item>Master Treeppet Hunter</item>
+		<item>200.000 puan al ve\n en azindan 200 tane trepet yakala</item>
+		<item>buttons/icon5.png</item>
+      </string-array>
+      
+      <string-array name="award_6">
+        <item>Survival Instinct</item>
+        <item>Olmeden 20 gorev tamamla</item>
+		<item>buttons/award6.png</item>
+      </string-array>
+      
+      <string-array name="award_7">
+        <item>Throwing Accuracy Badge</item>
+        <item>Sektirmeden bir seferde 10 trepet vur</item>
+		<item>buttons/award7.png</item>
+      </string-array>
+      
+      <string-array name="award_8">
+        <item>Agility Badge</item>
+        <item>20 hemsire robotun saldirisindan kurtulursan</item>
+		<item>buttons/award8.png</item>
+      </string-array>
+      
+      <string-array name="award_9">
+        <item>Fast Catch Badge</item>
+        <item>30 saniyeden fazla zamanin varken 10 gorevi tamamlarsan</item>
+		<item>buttons/award9.png</item>
+      </string-array>  
+      
+	<string-array name="award_10">
+        <item>Fighting Master</item>
+        <item>20 ninja trepetin saldirisindan kacinirsan</item>
+		<item>buttons/award10.png</item>
+      </string-array> 
+      
+    <string name="loading">Yukleniyor...</string>
+    <string name="total">Jetonlar</string>
+    <string name="total_score">Toplam Puan</string>
+    <string name="settings">Ayarlar</string>
+    <string name="awards">Oduller</string>
+    <string name="resetConfirm">Gercekten herseyi silip yeniden bastan baslamak istiyor musun?</string>	    
+    <string name="music">Muzik</string>
+    <string name="sounds">Sesler</string>
+    <string name="credits">Katkida bulunanlar</string>
+    <string name="intro">Intro</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+
+    <string name="welldone">Aferin!</string>
+    <string name="stage">Gorev</string>
+    <string name="tryagain">Dene</string>
+    <string name="again">tekrar!</string>
+    <string name="completed">Tamamlandi!</string>
+    <string name="congratulations">Tebrikler!!!</string>
+    <string name="ooops">OOOOPS!!!</string>
+    <string name="timeup">Süre doldu!</string>
+    <string name="youcatchall">Hepsini yakaladin!!!</string>
+    <string name="back_again_exit">Cikmak icin geri tusuna bas</string>
+ 	<string name="new_achievement">Yeni kazanma!</string>
+ 
+    <string name="left_to_catch">yakalanack trepetler</string>
+    <string name="stages_left">geriye kalan gorevler</string>
+    <string name="hits_left">geriye kalan vuruslar</string>
+    <string name="attacks_left">geriye kalan saldirilar</string>
+    <string name="ninja_attacks_left">geriye kalan ninja saldirilari</string>
+    <string name="score">Score:</string>
+    
+	<string name="help_controls">Hareket etmek icin yavasca dokun ve parmagini kaldirmadan surukle. Durmak icin ekrana hafifce vur. Hiz kazanmak icin uzunca parmagini surukle.</string>		
+	<string name="help_treeppets">Trepeti sogurmak icin yanina yanas</string>
+	<string name="help_treeppa">Kiymetli Treppa\'yi koru! Yenilen her top sana 50 jetona mal olacak!</string>
+	<string name="help_red_bubbles">Cubuklari disardayken, kirmizi balonlar uzerinde yurume</string>
+	<string name="help_trampoline">Trambolini kullanmak icin parmagini asagi dogru surukle</string>
+	<string name="help_nurse">Trepetlere yakaladigini goren hemsire robotlar sana saldirirlar.</string>
+	<string name="help_nurse_bad">Bazi hemsire robotlar seni etrafta dolasirken gorurse saldirirlar.</string>
+	<string name="help_musical_tree">Muzikal agaclar seni melodileriyle hipnotize ederler.</string>
+	<string name="help_usable">Herhangi bir aleti kullanmak icin ikonuna bas</string>
+	<string name="help_cloud">Kara bulutlardan uzak dur! Yoksa seni yildirimlariyla vurabilirler!</string>
+	<string name="help_tornado">Tornadolar genislediginde seni icine alabilirler!</string>
+	<string name="help_ninja_treeppet">Ninja trepetler ucan tekmeleriyle sana saldirabilirler!</string>
+	
+</resources>
