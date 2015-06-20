@@ -25,7 +25,7 @@
     
     <string-array name="earplugs">
         <item>Earplugs</item>
-        <item>Bu özel kulaklıkla, müzikal ağaçlarin sana hicbir etkisi olmaz. Ama yalnizca bi gorev icin etkili</item>
+        <item>Bu özel kulaklıkla, müzikal ağaçlarin sana hiçbir etkisi olmaz. Ama yalnızca bir görev için etkili.</item>
         <item>700</item>
         <item></item>
         <item></item>
@@ -35,7 +35,7 @@
     
     <string-array name="stunning_balls">
         <item>Stunning bombs</item>
-        <item>3 tane sersemleten bomba. Trpetleri bunlarla vurursan, bir muddet trepetlerin basini dondurursun</item>
+        <item>3 tane sersemletici bomba. Bunlarla trepetlerin başını bir müddet döndürebilirsin.</item>
         <item>2200</item>
         <item>sopoBall_icon.png</item>
         <item>shop/bombs.png</item>
