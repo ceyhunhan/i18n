@@ -7,7 +7,7 @@
         <item>Anti-Çubuk</item>
         <item>Bu iksir seni kırmızı balonlara\n
             karşı korur.\n
-            Yalnızca bir görev için etkili.
+            Bir görev için etkili.
         </item>
         <item>800</item>
         <item></item>
@@ -18,10 +18,10 @@
 
     <string-array name="glue">
         <item>İç Yapıştırıcı</item>
-        <item>Bu özel yapıştırıcıyı yere dök ve\n
-            trepetlerin üzerine yapışmasını bekle.\n
-            Hızlı olmalısın. Bir müddet sonra\n
-            trepetler serbest kalabilirler.
+        <item>Bu yapıştırıcıyı yere dök ve\n
+            trepetlerin yapışmasını bekle.\n
+            Hızlı olmalısın yoksa trepetler\n
+            serbest kalabilir.
         </item>
         <item>1200</item>
         <item></item>
@@ -32,10 +32,9 @@
 
     <string-array name="earplugs">
         <item>Kulak Tıkacı</item>
-        <item>Bu özel kulaklıkla,\n
-            müzikal ağaçlarin sana hiçbir\n
-            etkisi olmaz. Ama yalnızca bir\n
-            görev için etkili.
+        <item>Bu özel kulaklıkla, müzikal\n
+			ağaçlarin sana hiçbir etkisi olmaz.\n
+			Yalnızca bir görev için etkili.
         </item>
         <item>700</item>
         <item></item>
@@ -46,7 +45,7 @@
 
     <string-array name="stunning_balls">
         <item>Sersemleten Bomba</item>
-        <item>3 tane sersemletici bomba.\n
+        <item>3 adet sersemletici bomba.\n
             Bunlarla trepetlerin başını bir\n
             müddet döndürebilirsin.
         </item>
@@ -171,8 +170,8 @@
     <!-- Common -->
     <string-array name="radar">
         <item>Trepet Radarı</item>
-        <item>Bu Trepet radarı sana görüş alanı\n
-            dışındaki bütün trepetleri gösterir\n
+        <item>Bu radar sana görüş alanı\n
+            dışındaki trepetleri gösterir\n
             (Ekranın kenarındaki yanıp sönen\n
             noktalara dikkat et)
         </item>
@@ -268,8 +267,7 @@
     </string-array>
 
     <string-array name="intro_6">
-        <item>Yeryüzüne varan kutular,\n
-            yumurtaların kırılmasına sebep olur\n
+        <item>Yeryüzüne varan kutular açılır\n
             ve küçük trepetler kaçmaya başlar...
         </item>
     </string-array>
@@ -286,9 +284,8 @@
             tek enerji kaynağıdır...
         </item>
         <item>O olmadan gezegen hayatta kalamaz.</item>
-        <item>Maalesef küçük trepetler onu çok\n
-            severler ve durdurulmazlarsa\n
-            hepsini yerler!!!
+        <item>Ama küçük trepetler onu çok severler\n
+			ve durdurulmazlarsa hepsini yerler.
         </item>
     </string-array>
 
@@ -328,9 +325,8 @@
         </item>
 
         <item>
-            Robotlar kontrölden çıkmıştır \n
-            ve bebekleri rahatsiz\n
-            ettigini gorurlerse...
+            Robotlar kontrölden çıkmıştır\n
+            ve bebekleri rahatsiz ettigini gorurlerse...
         </item>
 
         <item>sana saldırmak için ellerinden\n
