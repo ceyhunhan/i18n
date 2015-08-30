@@ -509,13 +509,12 @@
     <string name="attacks_left">geriye kalan saldırılar</string>
     <string name="ninja_attacks_left">geriye kalan ninja saldırıları</string>
     <string name="score">Puan:</string>
-
-    <string name="help_controls">Hareket etmek için yavaşça dokun \nve parmağını kaldırmadan yanlara \ndoğru sürükle.
-        Durmak için ekrana \nhafifçe vur. Hızlanmak için daha\n uzunca parmağını sürükle.
-    </string>
-    <string name="help_treeppets">\n \nTrepeti emmek için yanına yanaş</string>
+    
+    <string name="help_controls">Hareketlenmek için\nekranı sürükle.\nDurmak için hafifçe\nvur. Hızlanmak için\nekranı uzunca sürükle
+    </string>    
+    <string name="help_treeppets">\n \nTrepeti emmek için\nyanına yanaş</string>
     <string name="help_treeppa">Kıymetli Trepa\'yı koru! Yenilen\n her top sana 50 jetona mal olur!</string>
-    <string name="help_red_bubbles">\n \nÇubuklari dişardayken, kırmızı\n balonlar üzerinde yürüme</string>
+    <string name="help_red_bubbles">\n \nÇubuklar dışardayken\nkırmızı balonlar\n üzerinde yürüme</string>
     <string name="help_trampoline">\n \nTrambolini kullanmak için parmağını\n aşağı doğru sürükle</string>
     <string name="help_nurse">Trepetleri yakaladığını gören bakıcı\n robotlar sana saldırabilirler.</string>
     <string name="help_nurse_bad">\n \nBazı bakıcı robotlar, seni etrafta\n dolaşırken görürse saldırabilirler.</string>
