@@ -231,17 +231,17 @@
 
     <!-- Intro -->
     <string-array name="intro_1">
-        <item>Güneş sisteminde bi yerde,\n
+        <item>Güneş sisteminde bir yerde,\n
             burdan çok uzakta değil...
         </item>
     </string-array>
 
     <string-array name="intro_2">
         <item>Nursery gemisi sonunda\n
-            eve dönmektedir
+            eve dönmektedir.
         </item>
         <item>Küçük Trepetler yumurtadan\n
-            çikmaya hazırdırlar...
+            çıkmaya hazırdırlar...
         </item>
         <item>ve Trep gezegenine doğru\n
             yol almaktadırlar.
@@ -279,7 +279,7 @@
     </string-array>
 
     <string-array name="intro_8">
-        <item>Çokça miktarda Treppa depolanmıştı</item>
+        <item>Çokça miktarda Treppa depolanmıştı.</item>
         <item>Treppa, Trep gezegeninin\n
             tek enerji kaynağıdır...
         </item>
@@ -314,19 +314,18 @@
 
     <string-array name="intro_11">
         <item>
-            Tabii ki bebek Trepetler\n
-            yalnız değildirler...
+            Ama bebek Trepetler\n
+            yalnız değiller...
         </item>
     </string-array>
 
     <string-array name="intro_12">
-        <item>Onları Robot Bakıcıları\n
-            gözetlemektedir.
+        <item>Onları gözetleyen robot bakıcıları var.
         </item>
 
         <item>
-            Robotlar kontrölden çıkmıştır\n
-            ve bebekleri rahatsiz ettigini gorurlerse...
+            Robotlar kontrölden çıkmıştır.\n
+            Bebekleri rahatsız ettiğini görürlerse...
         </item>
 
         <item>sana saldırmak için ellerinden\n
@@ -337,7 +336,7 @@
 
     <string-array name="intro_13">
         <item>Ayrıca gemiden öteki\n
-            şeyler de salıverilecek...
+            şeyler de salıverilecektir...
         </item>
         <item>
             Esrarengiz ve de tehlikeli\n
@@ -487,7 +486,7 @@
     </string>
     <string name="music">Müzik</string>
     <string name="sounds">Sesler</string>
-    <string name="credits">Katkıda bulunanlar</string>
+    <string name="credits">Jenerik</string>
     <string name="intro">Intro</string>
     <string name="yes">Evet</string>
     <string name="no">Hayır</string>

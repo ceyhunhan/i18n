@@ -232,17 +232,17 @@
 
     <!-- Intro -->
     <string-array name="intro_1">
-        <item>G&#124;ne&#128; sisteminde bi yerde,\n
+        <item>G&#124;ne&#128; sisteminde bir yerde,\n
             burdan &#125;ok uzakta de&#126;il...
         </item>
     </string-array>
 
     <string-array name="intro_2">
         <item>Nursery gemisi sonunda\n
-            eve d&#123;nmektedir
+            eve d&#123;nmektedir.
         </item>
         <item>K&#124;&#125;&#124;k Trepetler yumurtadan\n
-            &#125;ikmaya haz&#127;rd&#127;rlar...
+            &#125;&#127;kmaya haz&#127;rd&#127;rlar...
         </item>
         <item>ve Trep gezegenine do&#126;ru\n
             yol almaktad&#127;rlar.
@@ -281,7 +281,7 @@
     </string-array>
 
     <string-array name="intro_8">
-        <item>&#94;ok&#125;a miktarda Treppa depolanm&#127;&#128;t&#127;</item>
+        <item>&#94;ok&#125;a miktarda Treppa depolanm&#127;&#128;t&#127;.</item>
         <item>Treppa, Trep gezegeninin\n
             tek enerji kayna&#126;&#127;d&#127;r...
         </item>
@@ -317,20 +317,18 @@
 
     <string-array name="intro_11">
         <item>
-            Tabii ki bebek Trepetler\n
-            yaln&#127;z de&#126;ildirler...
+            Ama bebek Trepetler\n
+            yaln&#127;z de&#126;iller...
         </item>
     </string-array>
 
     <string-array name="intro_12">
-        <item>Onlar&#127; Robot Bak&#127;c&#127;lar&#127;\n
-            g&#123;zetlemektedir.
+        <item>Onlar&#127; g&#123;zetleyen Robot Bak&#127;c&#127;lar&#127; var.
         </item>
 
         <item>
-            Robotlar kontr&#123;lden &#125;&#127;km&#127;&#128;t&#127;r \n
-            ve bebekleri rahatsiz\n
-            ettigini gorurlerse...
+            Robotlar kontr&#123;lden &#125;&#127;km&#127;&#128;t&#127;r.\n
+            Bebekleri rahats&#127;z etti&#126;ini g&#123;r&#124;rlerse...
         </item>
 
         <item>sana sald&#127;rmak i&#125;in ellerinden\n
@@ -341,7 +339,7 @@
 
     <string-array name="intro_13">
         <item>Ayr&#127;ca gemiden &#123;teki\n
-            &#128;eyler de sal&#127;verilecek...
+            &#128;eyler de sal&#127;verilecektir...
         </item>
         <item>
             Esrarengiz ve de tehlikeli\n
@@ -492,7 +490,7 @@
     </string>
     <string name="music">M&#124;zik</string>
     <string name="sounds">Sesler</string>
-    <string name="credits">kredi</string>
+    <string name="credits">Jenerik</string>
     <string name="intro">Intro</string>
     <string name="yes">Evet</string>
     <string name="no">Hay&#127;r</string>
