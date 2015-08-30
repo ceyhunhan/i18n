@@ -267,7 +267,7 @@
     </string-array>
 
     <string-array name="intro_6">
-        <item>Yeryüzüne varan kutular açılır\n
+        <item>Yeryüzüne düşen kutular açılır\n
             ve küçük trepetler kaçmaya başlar...
         </item>
     </string-array>
@@ -501,7 +501,7 @@
     <string name="timeup">Süre doldu!</string>
     <string name="youcatchall">Hepsini yakaladin!!!</string>
     <string name="back_again_exit">Çıkmak için geri tuşuna bas</string>
-    <string name="new_achievement">Yeni kazanma!</string>
+    <string name="new_achievement">Yeni kazanım!</string>
 
     <string name="left_to_catch">yakalanacak trepetler</string>
     <string name="stages_left">geriye kalan görevler</string>
@@ -510,8 +510,7 @@
     <string name="ninja_attacks_left">geriye kalan ninja saldırıları</string>
     <string name="score">Puan:</string>
     
-    <string name="help_controls">Hareketlenmek için\nekranı sürükle.\nDurmak için hafifçe\nvur. Hızlanmak için\nekranı uzunca sürükle
-    </string>    
+    <string name="help_controls">Hareketlenmek için\nekranı sürükle.\nDurmak için hafifçe\nvur. Hızlanmak için\nekranı uzunca \nsürükle</string>    
     <string name="help_treeppets">\n \nTrepeti emmek için\nyanına yanaş</string>
     <string name="help_treeppa">Kıymetli Trepa\'yı koru! Yenilen\n her top sana 50 jetona mal olur!</string>
     <string name="help_red_bubbles">\n \nÇubuklar dışardayken\nkırmızı balonlar\n üzerinde yürüme</string>

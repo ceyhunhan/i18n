@@ -268,8 +268,7 @@
     </string-array>
 
     <string-array name="intro_6">
-        <item>Yery&#124;z&#124;ne varan kutular,\n
-            yumurtalar&#127;n k&#127;r&#127;lmas&#127;na sebep olur\n
+        <item>Yery&#124;z&#124;ne d&#124;&#128;en kutular a&#125;&#127;l&#127;r\n
             ve k&#124;&#125;&#124;k trepetler ka&#125;maya ba&#128;lar...
         </item>
     </string-array>
@@ -286,9 +285,8 @@
             tek enerji kayna&#126;&#127;d&#127;r...
         </item>
         <item>O olmadan gezegen hayatta kalamaz.</item>
-        <item>Maalesef k&#124;&#125;&#124;k trepetler onu &#125;ok\n
-            severler ve durdurulmazlarsa\n
-            hepsini yerler!!!
+        <item>Ama k&#124;&#125;&#124;k trepetler onu &#125;ok severler\n
+            ve durdurulmazlarsa hepsini yerler.
         </item>
     </string-array>
 
@@ -505,7 +503,7 @@
     <string name="timeup">S&#124;re doldu!</string>
     <string name="youcatchall">Hepsini yakaladin!!!</string>
     <string name="back_again_exit">&#94;&#127;kmak i&#125;in geri tu&#128;una bas</string>
-    <string name="new_achievement">Yeni kazanma!</string>
+    <string name="new_achievement">Yeni kazan&#127;m!</string>
 
     <string name="left_to_catch">yakalanacak trepetler</string>
     <string name="stages_left">geriye kalan g&#123;revler</string>
@@ -514,9 +512,9 @@
     <string name="ninja_attacks_left">geriye kalan ninja sald&#127;r&#127;lar&#127;</string>
     <string name="score">Puan:</string>
 
-    <string name="help_controls">Hareketlenmek i&#125;in\nekran&#127; s&#124;r&#124;kle.\nDurmak i&#125;in hafif&#125;e\nvur. H&#127;zlanmak i&#125;in\nekran&#127; uzunca s&#124;r&#124;kle</string>
+    <string name="help_controls">Hareketlenmek i&#125;in\nekran&#127; s&#124;r&#124;kle.\nDurmak i&#125;in hafif&#125;e\nvur. H&#127;zlanmak i&#125;in\nekran&#127; uzunca \ns&#124;r&#124;kle</string>
     <string name="help_treeppets">\n \nTrepeti emmek i&#125;in\nyan&#127;na yana&#128;</string>
-    <string name="help_treeppa">K&#127;ymetli Trepa\'y&#127;\nkoru!\nYenilen her top sana\n50 jetona\nmal olur!</string>
+    <string name="help_treeppa">K&#127;ymetli Trepa\'y&#127;\nkoru!\nYenilen her top sana\n50 jetona mal olur!</string>
     <string name="help_red_bubbles">\n \n&#94;ubuklar d&#127;&#128;ardayken\nk&#127;rm&#127;z&#127; balonlar\n &#124;zerinde y&#124;r&#124;me</string>
     <string name="help_trampoline">\n \nTrambolini kullanmak\ni&#125;in parma&#126;&#127;n&#127;\n a&#128;a&#126;&#127; do&#126;ru s&#124;r&#124;kle</string>
     <string name="help_nurse">\n \n Trepetleri\nyakalad&#127;&#126;&#127;n&#127;\ng&#123;ren bak&#127;c&#127;\n robotlar sana\nsald&#127;rabilirler.</string>
