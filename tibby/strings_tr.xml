@@ -493,9 +493,9 @@
 
     <string name="welldone">Aferin!</string>
     <string name="stage">Görev</string>
-    <string name="tryagain">Dene</string>
-    <string name="again">Tekrar!</string>
-    <string name="completed">Tamamlandi!</string>
+    <string name="tryagain">Tekrar</string>
+    <string name="again">dene!</string>
+    <string name="completed">Tamamlandı!</string>
     <string name="congratulations">Tebrikler!!!</string>
     <string name="ooops">OOOOPS!!!</string>
     <string name="timeup">Süre doldu!</string>
@@ -510,13 +510,13 @@
     <string name="ninja_attacks_left">geriye kalan ninja saldırıları</string>
     <string name="score">Puan:</string>
     
-    <string name="help_controls">Hareketlenmek için\nekranı sürükle.\nDurmak için hafifçe\nvur. Hızlanmak için\nekranı uzunca \nsürükle</string>    
+    <string name="help_controls">\nHareketlenmek için\nekranı sürükle.\nDurmak için hafifçe\nvur. Hızlanmak için\nekranı sürükle</string>    
     <string name="help_treeppets">\n \nTrepeti emmek için\nyanına yanaş</string>
-    <string name="help_treeppa">Kıymetli Trepa\'yı koru! Yenilen\n her top sana 50 jetona mal olur!</string>
-    <string name="help_red_bubbles">\n \nÇubuklar dışardayken\nkırmızı balonlar\n üzerinde yürüme</string>
-    <string name="help_trampoline">\n \nTrambolini kullanmak için parmağını\n aşağı doğru sürükle</string>
-    <string name="help_nurse">Trepetleri yakaladığını gören bakıcı\n robotlar sana saldırabilirler.</string>
-    <string name="help_nurse_bad">\n \nBazı bakıcı robotlar, seni etrafta\n dolaşırken görürse saldırabilirler.</string>
+    <string name="help_treeppa">\nKıymetli Trepa\'yı\nkoru!\nYenilen her top sana\n50 jetona mal olur!</string>
+    <string name="help_red_bubbles">\n \nÇubuklar \ndışardayken kırmızı\nbalonlar üzerinde\nyürüme</string>
+    <string name="help_trampoline">\n \nTrambolini\nkullanmak için\nparmağını aşağı\ndoğru sürükle</string>
+    <string name="help_nurse">\nTrepetleri \nyakaladığını gören\nbakıcı robotlar\nsana saldırabilirler</string>
+    <string name="help_nurse_bad">\n \nBakıcı robotlar\nseni etrafta görürse\nsaldırabilirler.</string>
     <string name="help_musical_tree">\n \nMuzikal ağaçlar, seni melodileriyle\n hipnotize edebilirler.</string>
     <string name="help_usable">\n \nHerhangi bir aleti kullanmak\n için ikonuna bas</string>
     <string name="help_cloud">\n \nKara bulutlardan uzak dur!\nYoksa üzerine yıldırım düşebilir!</string>
